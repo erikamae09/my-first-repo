@@ -3,3 +3,4 @@ Line from conflict-test
 edited from github
 edited on my laptop
 hello from the clone
+Hello from the clone
